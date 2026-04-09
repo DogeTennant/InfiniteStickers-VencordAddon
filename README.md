@@ -18,7 +18,7 @@ Stickers are stored as GIF/PNG files in a GitHub repository. When you send one:
 ## Features
 
 - **Unlimited stickers** hosted on GitHub, organized into categories by folder
-- **Search** across your entire collection by name or tags — works across all categories simultaneously
+- **Search** across your entire collection by name or tags - works across all categories simultaneously
 - **Frequently Used** category that auto-populates and sorts by how often you use each sticker
 - **Compose bar** - click a sticker, optionally type a message, send both together in one message
 - **@mention support** - stage a sticker to the real Discord chat input for full autocomplete
